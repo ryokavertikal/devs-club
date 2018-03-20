@@ -1,2 +1,2 @@
-# link-sosmed-programmer-indonesia
-Kumpulan link-link sosial media programmer indonesia dengan berbagai bahasa
+# link-sosmed-komunitas-programmer-indonesia
+Kumpulan link-link sosial komunitas media programmer indonesia dengan berbagai bahasa
