@@ -24,3 +24,9 @@ Lainnya : [Github](https://github.com/reactjs-id)  |  [Facebook Group](https://w
 Angular merupakan framework Javascript dengan fitur yang cukup lengkap. Versi Angular 2 keatas sudah memakai bahasa sendiri yakni Typescript.
 
 Link : [Facebook Group](https://www.facebook.com/groups/462764390497214/)  |  [Github](https://github.com/angular-indonesia)  |  [Telegram](https://www.t.me/AngularID/)
+
+4. **VueJS**
+
+Vuejs merupakan sebuah progresif javascript framework yang biasa dipakai untuk mengembangkan sebuah user interface serta single page application.
+
+Link : [Facebook group](https://www.facebook.com/groups/1675298779418239/) | [Telegram](https://t.me/vuejsid) | [Official Blog](https://vuejs.id)
