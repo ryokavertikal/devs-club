@@ -33,3 +33,7 @@ Vuejs merupakan sebuah progresif javascript framework yang biasa dipakai untuk m
 
 Link : [Facebook group](https://www.facebook.com/groups/1675298779418239/) | [Telegram](https://t.me/vuejsid) | [Official Blog](https://vuejs.id)
 
+5. **Sveltejs**
+
+Link : [Telegram](https://t.me/svelte_id)
+
